@@ -404,3 +404,92 @@ If the backend destination cannot be established from public evidence, the next 
 5. only then qualify a Veltrix opportunity.
 
 No outreach or solution proposal should be generated yet.
+
+
+## Architecture Forensics — 2026-10-03
+
+### New evidence: CRM is embedded in multiple operational roles
+
+Current/recent Aims hiring evidence references CRM use across several functions:
+- Student Counselor: maintain student details/applications in CRM.
+- International Student Recruitment Officer: maintain a ledger of student details/applications in CRM and liaise with other offices/institutions.
+- Compliance Officer: maintain accurate records in the CRM and report on visa/compliance status.
+- Branch Manager: proficiency with management systems/CRM tools and responsibility for performance metrics and departmental coordination.
+- Business Development Manager: proficiency with CRM software.
+
+Sources:
+- https://ng.linkedin.com/jobs/view/student-counselor-at-aims-education-3417896893
+- https://ng.linkedin.com/jobs/view/international-student-recruitment-officer-canada-destination-at-aims-education-nigeria-3899305539
+- https://ng.linkedin.com/jobs/view/compliance-officer-at-aims-education-nigeria-4022325960
+- https://ng.linkedin.com/jobs/view/branch-manager-at-aims-education-nigeria-4398479992
+- https://ng.linkedin.com/jobs/view/business-development-manager-at-aims-education-4144137332
+
+**Observation:** CRM is a cross-functional operational dependency, not merely a sales/counselling tool.
+
+**Important limitation:** These job descriptions do not identify the vendor/platform or prove how deeply integrated the CRM is.
+
+### New evidence: current public architecture has a global + local layer
+
+The current Aims team page identifies country managers, regional managers and global operations across Nigeria, Ghana, Kenya, Bangladesh, India, Pakistan, Algeria, UAE and the UK. The Nigeria office page lists separate Island and Main/Ogudu offices.
+
+Sources:
+- https://aimseducation.com/our-team
+- https://aimseducation.com/global-offices/nigeria
+
+**Architecture question:** Is student/application data globally shared, country-scoped, or both? How are permissions and reporting segmented?
+
+### New evidence: the public site is not one uniform lead form
+
+The Nigeria consultation page captures intake, destination, study level and subject, while the Nigeria homepage/application surface captures IELTS status and destination among other fields.
+
+Sources:
+- https://aimseducation.com/nigeria/consultation
+- https://aimseducation.com/nigeria
+- https://aimseducation.com/nigeria/services/university-application
+
+**Observation:** Multiple public lead schemas exist.
+
+**Inference:** There must be some mapping/normalization decision somewhere in the backend if these submissions enter a shared CRM. This is a testable architecture question, not evidence of a failure.
+
+### New evidence: Aims' own service promise implies operational state tracking
+
+The current application-support page says Aims checks documents, aligns applications to requirements, and helps students avoid missed deadlines; it describes involvement from first conversation through submission.
+
+Source:
+- https://aimseducation.com/nigeria/services/university-application
+
+**Architecture question:** Where are application state, document completeness, deadlines, and ownership represented? CRM, custom MIS, university portals, spreadsheets, or a combination?
+
+### Vendor identity remains unresolved
+
+The strongest historical vendor evidence remains the verified 2024 AIMS/Adroit project. It explicitly names Adroit Infosystem and describes a customized operational automation/MIS implementation.
+
+However, current searches still do not establish:
+- the exact current CRM product;
+- whether Aims is currently using Adroit Study CRM;
+- whether Adroit still maintains Aims' system;
+- the current website-to-CRM integration;
+- the backend destination of each public form.
+
+Therefore we should **not** convert Adroit from historical vendor evidence into a current-vendor claim.
+
+### Current investigation status
+
+The evidence now supports a stronger statement:
+
+> Aims has a CRM-dependent, multi-function, multi-office operating model with multiple public lead-entry surfaces and a service workflow that requires application/document/deadline state management.
+
+It still does **not** support:
+
+> Aims has a CRM integration problem.
+
+### Next forensic targets
+
+1. Identify technology/vendor references from current Aims employees or public partner material.
+2. Determine whether Adroit's relationship with Aims appears active after the 2024 review.
+3. Inspect publicly observable form action/API/script destinations where available.
+4. Compare course/university catalogue URLs and data patterns for signs of a shared backend.
+5. Look for current references to reporting dashboards, MIS, student portals, or internal applications.
+6. Search current/archived job descriptions for named software products.
+7. Only after those steps, formulate a qualified opportunity hypothesis.
+
