@@ -23,3 +23,13 @@
 **Reason:** Phase 0 should prioritize sources that are easier to revisit, verify, and preserve as evidence.
 
 **Status:** Accepted
+
+## DEC-004 — Phase 0 Company #1: Aims Education Nigeria
+
+**Decision:** Aims Education Nigeria is the first Phase 0 prospect and remains in INVESTIGATING status.
+
+**Reason:** Research established a substantial, evidence-backed technology footprint: CRM-dependent student/application workflows, structured web lead capture, and a documented automation/MIS implementation involving website, Facebook, WhatsApp, lead tracking, follow-ups, document workflows and invoicing.
+
+**Constraint:** The historical implementation does not prove a current 2026 pain point. Further investigation must identify current architecture and unresolved operational friction before qualification or outreach.
+
+**Status:** Accepted
