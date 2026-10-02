@@ -48,3 +48,18 @@
 **Next step:** Identify the CRM/vendor and, if possible, the backend destinations of the current public lead forms.
 
 **Status:** Accepted
+
+
+## DEC-006 — Aims external application-state boundary isolated
+
+**Decision:** Treat the Aims investigation's primary architecture target as the boundary between Aims' internal CRM/application workflow and external university application portals.
+
+**New evidence:** Aims employee evidence confirms active monitoring of university portals, application follow-ups, document review, university-representative communication and admission-timeline coordination. Current Aims expert profiles independently confirm CRM use across application/compliance, counselling and branch-management roles.
+
+**Reason:** Both sides of the workflow are now independently evidenced. This creates a concrete, testable integration/state-reconciliation question rather than a generic CRM hypothesis.
+
+**Constraint:** The evidence still does not establish that portal state is manually reconciled into CRM, that duplicate/stale records exist, or that synchronization causes measurable operational loss.
+
+**Next step:** Search specifically for application-state reports, pending/offer/CAS tracking, deadline/escalation workflows, CRM updates after portal activity, and branch/compliance handoffs. Qualify only if a current source demonstrates concrete operational friction attributable to this boundary.
+
+**Status:** Accepted
