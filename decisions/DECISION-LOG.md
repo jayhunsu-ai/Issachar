@@ -33,3 +33,18 @@
 **Constraint:** The historical implementation does not prove a current 2026 pain point. Further investigation must identify current architecture and unresolved operational friction before qualification or outreach.
 
 **Status:** Accepted
+
+
+## DEC-005 — Architecture forensics: Aims current lead and workflow surface
+
+**Decision:** Continue Aims investigation at the architecture-forensics level before qualification.
+
+**New evidence:** Aims' current public web estate exposes multiple lead-capture schemas; current management hiring explicitly references CRM/management-system use; current service material explicitly describes deadline management; and the site exposes structured course/university data.
+
+**Reason:** These observations create testable architecture questions without requiring an invented pain point.
+
+**Constraint:** Different forms do not prove different backend systems, and deadline management does not prove manual work or failure.
+
+**Next step:** Identify the CRM/vendor and, if possible, the backend destinations of the current public lead forms.
+
+**Status:** Accepted

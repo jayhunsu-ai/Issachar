@@ -262,3 +262,145 @@ However, **no current 2026 business problem has been proven yet**.
 The correct next step is not a generic software pitch. It is to determine whether the existing CRM/MIS/website/course/application stack has remained coherent as Aims expanded its offices, partner network, course catalogue and service lifecycle.
 
 **Core Issachar question:** What changed in Aims' operating system between the documented automation implementation and its current 2026 multi-office, multi-service operation—and is there evidence of a new unresolved constraint?
+
+
+## Architecture Forensics — 2026-10-02
+
+### New current-state evidence
+
+**1. Branch management explicitly depends on CRM/management systems**
+
+A recent/recently closed Aims Education Nigeria Branch Manager role in Lekki requires proficiency with office software and experience with management systems or CRM tools. The role also requires monitoring performance metrics and coordinating between departments.
+
+Source:
+- https://ng.linkedin.com/jobs/view/branch-manager-at-aims-education-nigeria-4398479992
+
+**Interpretation:** CRM use is not limited to counsellors/compliance staff; branch-level operational management is also expected to work with management/CRM systems.
+
+**What remains unknown:** The job description does not identify the CRM vendor, whether dashboards are built into the CRM, or what metrics are actually surfaced.
+
+### 2. The current public site exposes multiple lead-capture schemas
+
+The Nigeria consultation page currently collects:
+- first/last name
+- phone
+- email
+- country of residence
+- preferred intake
+- preferred study destination
+- study level
+- preferred subject
+- message
+- communication preferences.
+
+Source:
+- https://aimseducation.com/nigeria/consultation
+
+The current Nigeria homepage and university/course/application pages instead expose a different consultation form schema, including:
+- first/last name
+- email
+- phone
+- IELTS status
+- country of residence
+- preferred study destination
+- CAPTCHA/human verification
+- consent.
+
+Sources:
+- https://aimseducation.com/nigeria
+- https://aimseducation.com/nigeria/services/university-application
+- https://aimseducation.com/courses
+- https://aimseducation.com/universities
+
+**Observation:** There are at least two distinct lead-capture schemas on the current public web estate.
+
+**Important limitation:** This does NOT prove separate backend systems or data silos. The forms may feed the same CRM through different mappings.
+
+**Investigation value:** High. Different schemas create a concrete question around normalization, attribution, routing and deduplication before CRM ingestion.
+
+### 3. The public service surface now explicitly depends on deadline management
+
+Aims' current Nigeria university-application page says its team tracks:
+- application deadlines;
+- payment deadlines;
+- interview dates;
+and describes checking documents, English-language requirements, applications and offers.
+
+Source:
+- https://aimseducation.com/nigeria/services/university-application
+
+**Observation:** Deadline management is an explicit part of the service being delivered.
+
+**Unknown:** Whether deadlines are tracked through CRM automation, calendar tooling, university portals, spreadsheets, or manual staff processes.
+
+This strengthens H4 from a generic hypothesis into a **specific architecture question**, but still not a proven pain point.
+
+### 4. Current catalogue and university data are increasingly structured
+
+The current website provides:
+- course search across thousands of courses;
+- country, destination, subject-area and study-level filters;
+- university finder;
+- university-specific course listings with individual "Apply Now" actions.
+
+Sources:
+- https://aimseducation.com/courses
+- https://aimseducation.com/universities
+- https://aimseducation.com/nigeria/study-in-uk/universities/aston-university
+
+**Observation:** Aims' public web layer now exposes structured course/university data at considerable breadth.
+
+**Investigation question:** Is the public catalogue generated from the same source of truth used by counsellors/application staff, or is it a separate content/data layer?
+
+### 5. The operational model is explicitly multi-office and multi-department
+
+The current Aims Nigeria site lists both Lekki and Ogudu offices. Its current public team/branch material also describes country, regional and global management roles. The Branch Manager role explicitly calls for coordination between departments and performance monitoring.
+
+Sources:
+- https://aimseducation.com/global-offices/nigeria
+- https://aimseducation.com/our-team
+- https://ng.linkedin.com/jobs/view/branch-manager-at-aims-education-nigeria-4398479992
+
+**Interpretation:** Shared operational data, permissions, branch attribution and reporting are now more important architecture questions than they were in the original single-implementation investigation.
+
+### Revised hypothesis set
+
+**H1 — CRM/MIS evolution after the Adroit implementation**
+The company has expanded its public web estate, offices, service surface and management structure since the documented 2021+ automation engagement.
+
+**Status:** Open hypothesis.
+
+**H2 — Lead-schema normalization**
+Different current public forms collect different prospect attributes. Determine whether these are normalized into one CRM record model or routed through different workflows.
+
+**Status:** Strong architecture question; no proven failure.
+
+**H3 — Branch/department visibility**
+Determine whether branch managers and departments operate from one shared student/application record and whether performance reporting is consistent across offices.
+
+**Status:** Open hypothesis.
+
+**H4 — Deadline/document state automation**
+Current service descriptions explicitly require deadline and document management. Determine whether reminders, escalations and state transitions are system-driven.
+
+**Status:** Open hypothesis.
+
+**H5 — Catalogue/application data integration**
+Determine whether public course/university data and internal application data share a source of truth or require synchronization.
+
+**Status:** Open hypothesis.
+
+### Research priority change
+
+The next highest-value task is now:
+
+**Trace the two public lead forms and identify their backend/CRM destination if publicly observable.**
+
+If the backend destination cannot be established from public evidence, the next route is:
+1. identify current CRM/vendor from employee/vendor evidence;
+2. identify whether Adroit remains involved;
+3. map the public forms to that platform;
+4. inspect how the current application/courses data is sourced;
+5. only then qualify a Veltrix opportunity.
+
+No outreach or solution proposal should be generated yet.
