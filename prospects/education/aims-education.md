@@ -493,3 +493,85 @@ It still does **not** support:
 6. Search current/archived job descriptions for named software products.
 7. Only after those steps, formulate a qualified opportunity hypothesis.
 
+
+
+## Architecture Forensics — 2026-10-03 (Application-State Boundary)
+
+### New evidence: the workflow crosses into external university systems
+
+A current/recent Aims employee, Awaji-kansan Obediah Iduinung, describes day-to-day work that includes application follow-ups, reviewing student documents, tracking progress on university portals, ensuring applicant files continue moving, responding to university representatives, sending updates, and clarifying admission timelines/requirements.
+
+Source:
+- https://ng.linkedin.com/in/awaji-kansan-obediah-iduinung-96251b368
+
+**Observation:** Aims' application workflow has a confirmed external-system boundary: staff actively monitor university portals while simultaneously managing applicant communication and internal application work.
+
+**What this proves:** External university application state is part of the operational workflow.
+
+**What this does NOT prove:** It does not establish that portal state is manually copied into the CRM, that spreadsheets/WhatsApp are used for reconciliation, or that synchronization is currently failing.
+
+### Direct current CRM-role evidence
+
+Current Aims expert profiles provide direct evidence that CRM is used operationally:
+
+- Manuel Kuriapilly Cleetes — Application and Compliance Officer: describes experience with CRM systems alongside compliance coordination, university communications and operational workflows.
+- Sharon Ifeoluwa Babatunde — Senior Student Counsellor: lists application/admission process management and “Excellent use of CRM.”
+- Muhammad Haris Shafique — Branch Manager: describes application management, documentation, visa processing, team management and CRM systems.
+
+Sources:
+- https://experts.aimseducation.co.uk/manuel-kc/
+- https://experts.aimseducation.co.uk/sharon-ifeoluwa-babatunde/
+- https://experts.aimseducation.co.uk/muhammad-haris-shafique/
+
+**Observation:** CRM is part of the current operational environment across application/compliance, counselling and branch management roles.
+
+### Architecture boundary now isolated
+
+The strongest currently evidenced architecture is:
+
+**Aims internal CRM/application workflow ↔ Aims staff ↔ external university portals/university representatives ↔ student**
+
+The unresolved point is the synchronization boundary between the external university application state and Aims' internal record/state.
+
+This is materially stronger than a generic “CRM problem” hypothesis because both sides of the boundary are independently evidenced.
+
+### Revised investigation target
+
+The next investigation should attack the **Application Manager / Application & Compliance workflow**, specifically looking for public evidence of:
+
+- pending-application lists;
+- offer/condition tracking;
+- CAS tracking;
+- application-status reports;
+- document-state tracking;
+- university-portal monitoring;
+- deadline/escalation reports;
+- CRM updates after university-portal activity;
+- “follow up with university” workflows;
+- daily/weekly application pipeline reporting;
+- branch-to-compliance handoffs.
+
+A second architecture question is branch ownership: with both Lekki and Ogudu offices and cross-functional CRM use, determine whether a student's authoritative application state is shared across branches/departments or reconstructed through handoffs.
+
+### Current evidence scorecard
+
+| Question | Status |
+|---|---|
+| CRM-supported operations | **Confirmed** |
+| Dedicated application/compliance personnel | **Confirmed** |
+| University communications | **Confirmed** |
+| Application/document/compliance state | **Confirmed** |
+| External university portals in staff workflow | **Confirmed** |
+| Automatic portal → CRM synchronization | **Unknown** |
+| Manual reconciliation between systems | **Unknown** |
+| Duplicate/stale internal records caused by synchronization | **Unknown** |
+| Measurable operational loss | **Unknown** |
+| Current Aims technology pain requiring Veltrix | **Not yet proven** |
+
+### Qualification rule remains unchanged
+
+Do not qualify this as a sales opportunity until at least one current source establishes a concrete operational consequence attributable to the unresolved boundary — for example repeated reconciliation, duplicated entry, stale status, missed handoff, avoidable follow-up load, reporting delay, or similar measurable friction.
+
+**Current hypothesis:** Aims staff may be compensating for application-state complexity through human coordination across internal CRM records and external university systems.
+
+**Confidence:** Plausible architecture hypothesis; not yet a proven business problem.
