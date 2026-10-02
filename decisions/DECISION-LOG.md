@@ -63,3 +63,16 @@
 **Next step:** Search specifically for application-state reports, pending/offer/CAS tracking, deadline/escalation workflows, CRM updates after portal activity, and branch/compliance handoffs. Qualify only if a current source demonstrates concrete operational friction attributable to this boundary.
 
 **Status:** Accepted
+
+
+## DEC-007 — Application workflow forensics remains unqualified
+
+**Decision:** Keep Aims in INVESTIGATING status after the application-workflow pass.
+
+**New evidence:** A dedicated Application Officer role was advertised in Lagos in November 2025, while current Aims personnel evidence shows active application/compliance work involving document checks, CAS preparation, university communications, CRM use and university-portal monitoring.
+
+**Reason:** The application workflow and its human/system boundaries are now better evidenced, but no current Aims-specific source found in this pass establishes manual reconciliation, stale/duplicate state, missed handoffs, or measurable operational loss attributable to the workflow.
+
+**Next step:** Search for workflow artifacts and first-person operational evidence — application-status/offer/CAS reports, pending-case language, deadline escalations, CRM updates after portal activity, named software, screenshots/demos, and branch-level reporting.
+
+**Status:** Accepted
