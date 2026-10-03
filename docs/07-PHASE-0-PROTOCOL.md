@@ -10,6 +10,19 @@ Validate whether the Issachar methodology can reliably produce useful, evidence-
 - 5 real-estate companies
 - 5 logistics/distribution companies
 
+## Pre-Investigation Qualification Gate
+
+Before adding a company to the Phase 0 sample:
+
+1. Check evidence density and current public footprint.
+2. Check operational complexity and identifiable workflows.
+3. Check technology/system surfaces.
+4. Check for current partners or vendors that already own the relevant workflow.
+5. Check whether a plausible conversation path exists.
+6. Exclude or defer the company if the evidence is too thin, partner ownership makes the target problem unlikely to be accessible, or a meaningful pain-discovery path cannot be established.
+
+A company that fails the gate does not count toward the sector quota.
+
 ## Procedure
 
 1. Discover the company.
