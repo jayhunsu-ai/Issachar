@@ -1,0 +1,263 @@
+{
+  "campaign": "veltrix-2026-10-outreach",
+  "generated_at": "2026-10-03",
+  "count": 32,
+  "records": [
+    {
+      "company": "DrugStoc",
+      "recipient": "careers@drugstoc.com",
+      "subject": "Operational workflow & automation enquiry",
+      "body": "I came across DrugStoc’s recent Sales Operations recruitment and noticed the breadth of the workflow across client pipelines, onboarding, ERP tagging, virtual warehouse operations, sales-order cycles, KPI reporting and VMI reconciliation. That operational surface is exactly the kind of environment I’m interested in understanding. Veltrix builds internal systems and workflow automation for businesses where information has to move between commercial, operations, inventory and finance teams. I’d like to understand where your current processes still require manual intervention or reconciliation before suggesting anything. Could you connect me with the person responsible for operations or internal systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "MEDLOG Nigeria",
+      "recipient": "NG960-hr.careers@medlog.com",
+      "subject": "Inventory & operations workflow enquiry",
+      "body": "I came across MEDLOG Nigeria’s recent Inventory Officer recruitment, particularly the work around inventory records, asset tracking, stock/financial reconciliation, invoices, discrepancies, audits and ERP reporting. I’m researching how logistics companies manage the boundary between physical inventory, financial records and day-to-day movement. Veltrix builds workflow systems and automation around these processes. I’d like to understand whether there are still manual reconciliation points or information handoffs within your Nigerian operations. Could you point me toward the person responsible for operations, inventory systems or process improvement?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Agary Pharmaceutical",
+      "recipient": "careers@agarypharm.net",
+      "subject": "Warehouse & inventory operations enquiry",
+      "body": "I’ve been looking at Agary Pharmaceutical’s warehouse operations, particularly receiving, stock records, GRNs, waybills, dispatch, procurement/logistics coordination and discrepancy reporting. Those processes become increasingly difficult to coordinate as stock moves between warehouses, depots and customers. Veltrix builds operational systems that connect these workflows and reduce unnecessary manual reconciliation. I’d first like to understand how the workflow currently operates and whether teams still rely on manual reconciliation or separate records. Could you direct me to the person responsible for warehouse operations or inventory systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Sany Nigeria",
+      "recipient": "awoyomia@sanygroup.com",
+      "subject": "Warehouse workflow & inventory systems",
+      "body": "I came across SANY Nigeria’s recent Warehouse Specialist recruitment and noticed the operational scope around high-SKU inventory, ERP records, stock counts, order fulfilment, documentation and dispatch. I’m interested in the workflow connecting physical warehouse activity, customer orders and system records—not in replacing your ERP. Veltrix builds workflow automation and internal operational tools around these boundaries. Could you point me toward the person responsible for warehouse operations, process improvement or internal systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Timekeepers International",
+      "recipient": "timelessrecruitment@gmail.com",
+      "subject": "Inventory workflow automation enquiry",
+      "body": "I came across Timekeepers International’s recent inventory recruitment and noticed the workflow around stock counts, discrepancies, transfers, adjustments, ERP updates and coordination between Procurement, Warehouse, Retail, Finance and Operations. That kind of cross-team workflow is an area Veltrix works on. I’d like to understand whether there are manual reconciliation points between physical stock, ERP records, stores and finance. Could you route this to the person responsible for operations or inventory systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Engee PET Manufacturing",
+      "recipient": "isabella.inyang@engeepet.com",
+      "subject": "Manufacturing warehouse workflow enquiry",
+      "body": "I came across Engee PET’s warehouse operations and the requirement for SAP/ERP, inventory management, FIFO/FEFO and warehouse reporting. I’m interested in the workflow connecting production requirements, warehouse movements, stock accuracy and reporting. Veltrix builds internal operational systems and automation around processes that cross departmental boundaries. I’d like to understand where your existing ERP handles the workflow well and where teams still rely on Excel, manual checks or repeated reconciliation. Could you connect me with the appropriate operations, warehouse or systems lead?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Forte Upstream Services",
+      "recipient": "recruitment@forteupstreams.com",
+      "subject": "Warehouse & inventory workflow enquiry",
+      "body": "I came across Forte Upstream Services’ warehouse/inventory requirements involving ERP systems, Excel, inventory control and material management. I’m researching how operational teams manage the movement from physical materials to system records, requests, issues, reconciliation and reporting. Veltrix builds workflow automation and internal tools around these processes. I’d like to understand whether there are manual handoffs or reconciliation tasks that your team still performs outside the core ERP. Could you direct me to the relevant operations or systems owner?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "J3 Foods & Stores",
+      "recipient": "midaasconsult@gmail.com",
+      "subject": "Inventory systems & process automation",
+      "body": "I came across J3 Foods and Stores’ inventory-management requirements, particularly the emphasis on ERP transaction accuracy, inventory-system integrity, reporting, internal controls and process improvement. The difficult part is often not the ERP itself, but keeping the surrounding operational workflow consistent. Veltrix builds automation and internal systems that help teams connect those processes. I’d like a short conversation with whoever owns inventory operations or process improvement to understand how the current workflow is structured.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "SIMS Nigeria",
+      "recipient": "employment@simsng.com",
+      "subject": "Spare-parts & inventory workflow enquiry",
+      "body": "I noticed SIMS Nigeria’s requirements around spare-parts inventory, ERP/inventory systems, service-team availability and stock management. I’m interested in the operational workflow connecting service requests, parts availability, stores, inventory records and fulfilment. Veltrix develops internal applications and workflow automation for these processes. I’d like to understand whether there are manual handoffs or visibility gaps around those workflows before suggesting anything. Could you connect me with the relevant operations or inventory systems lead?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Ringardas Nigeria",
+      "recipient": "careers@ascanigeria.com",
+      "subject": "Logistics & fleet workflow enquiry",
+      "body": "I came across Ringardas Nigeria’s logistics requirements involving truck scheduling, dispatch coordination, fleet operations, waybills, customer order fulfilment and operational reporting. That is a substantial workflow surface when multiple vehicles, orders and locations have to remain synchronized. Veltrix builds internal applications and workflow automation around these processes. I’d like to understand how your current operation coordinates those activities and whether any parts still depend heavily on spreadsheets, calls or manual reporting. Could you route this to the relevant operations or fleet systems lead?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Solis Industries",
+      "recipient": "info@solisindustries.ng",
+      "subject": "Medical logistics operations & software",
+      "body": "I came across Solis Industries and the work around medical drone logistics, cold-chain integrity, live monitoring, routing and a growing delivery network. Because you operate a physical logistics network alongside software and infrastructure, I’m interested in the operational layer underneath the platform—dispatch, exceptions, maintenance, custody, facility coordination and reporting. Veltrix builds internal operational software and automation. I’d be interested in understanding whether there are workflow components worth extending or automating as Solis scales. Who would be the best person to speak with about operations and internal systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Fleet Technologies",
+      "recipient": "founders@fleet.ng",
+      "subject": "Logistics workflow & operations enquiry",
+      "body": "I came across Fleet and the model connecting SMEs with logistics providers while handling tracking, payments, insurance and delivery management. I’m particularly interested in the operational layer between customer request, provider assignment, pickup, delivery, exceptions and settlement. Veltrix builds workflow automation and internal applications around operational systems like this. I’d like to understand whether any parts of the provider/customer workflow still require manual coordination or reconciliation. Would you be open to a short technical or operations conversation?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "TIDO Global Logistics",
+      "recipient": "hello@tidoglobal.com",
+      "subject": "Healthcare logistics workflow enquiry",
+      "body": "I came across TIDO Global Logistics and its healthcare supply-chain platform connecting healthcare providers, suppliers, logistics companies and equipment manufacturers. That ecosystem creates workflow questions around order state, supplier coordination, fulfilment, routing, delivery confirmation and exceptions. Veltrix builds operational software and automation for multi-party workflows. I’d rather understand where the platform or internal operation still has manual processes before proposing anything. Who would be the right person to speak with?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Orivoy",
+      "recipient": "",
+      "subject": "Healthcare workflow & platform engineering",
+      "body": "I came across Orivoy’s work around digital healthcare infrastructure and diagnostic workflows, particularly structured requests, sample collection and healthcare coordination. Veltrix works on backend systems, APIs, workflow automation and internal operational applications. I’d be interested in understanding what parts of your infrastructure are already productized and whether there are areas where an engineering partner could help build supporting workflow systems. If useful, I’d be happy to have a short technical conversation.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Medinex",
+      "recipient": "support@medinex.ng",
+      "subject": "Healthcare operations & integrations",
+      "body": "I came across Medinex and the work around connecting healthcare providers through unified records, communication and digital workflows. I’m interested in the operational layer behind that ecosystem—facility onboarding, provider coordination, integrations, notifications and movement of information between healthcare actors. Veltrix builds APIs, internal applications and workflow automation. I’d like to explore whether there are technical workflow gaps where an engineering partner could help. Who would be best to speak with about partnerships or engineering?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Awubis",
+      "recipient": "health.info@awuby.com",
+      "subject": "Health-tech workflow & systems collaboration",
+      "body": "I came across Awubis and its focus on data-driven health technology across diagnostics, intervention and chronic-health management. Veltrix works on the engineering side of operational systems—APIs, backend services, dashboards and workflow automation. I’m interested in understanding the operational workflows behind your products and whether there are supporting systems, integrations or internal tools that would benefit from additional engineering capacity. Would you be open to a brief technical conversation?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "DHI Logistics",
+      "recipient": "logistics@dispatchhealthcares.com",
+      "subject": "Healthcare logistics workflow automation",
+      "body": "I came across DHI Logistics and the breadth of your healthcare logistics operation, including last-mile delivery, cold-chain transport, sample movement, haulage, warehousing and inventory management. That creates a substantial workflow across requests, dispatch, drivers, custody, delivery confirmation and reporting. Veltrix builds internal operational applications and workflow automation around these processes. I’d like to understand how your teams coordinate these activities and whether there are areas where automation could reduce manual coordination. Could you connect me with whoever oversees operations or technology?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Pendulum Logistics",
+      "recipient": "enquiry@pendulumlogisticsng.com",
+      "subject": "Logistics operations & automation enquiry",
+      "body": "I’m researching growing logistics operators and how they coordinate delivery requests, dispatch, drivers, customers, proof of delivery and exceptions across multiple locations. Pendulum’s Lagos/Kano presence caught my attention. Veltrix builds operational software and workflow automation for these processes. I’d like to understand what systems you currently use and whether any part of the operation still depends heavily on manual coordination. If there’s a relevant operations or technology lead, I’d appreciate an introduction.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "AgroGreen Dynamics",
+      "recipient": "hello@agrogreenfarms.com",
+      "subject": "Field operations & workflow automation",
+      "body": "I came across AgroGreen Dynamics and the breadth of its operations across managed farms, cooperative support, aggregation, processing, climate programmes and digital agriculture. I’m interested in the operational coordination between field teams, cluster leads, farmers, aggregation and reporting. Veltrix builds workflow systems, dashboards and automation for multi-team operations. I’d like to understand which parts are already digitized and where teams still rely on manual reporting or coordination. Could you connect me with the person responsible for operations or systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Petablue Agro-Allied",
+      "recipient": "info@petablue.com",
+      "subject": "Farm operations & digital workflow enquiry",
+      "body": "I came across Petablue’s work around structured aggregation, digital lot tracking, warehouse operations, dashboards and the roadmap toward processing and manufacturing. That progression creates interesting opportunities for systems connecting lots, inventory, quality, warehouse activity and commercial movement. Veltrix builds internal applications and workflow automation around these processes. I’d be interested in understanding the current architecture and whether there are supporting workflows you expect to need as the operation scales.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Gtext Farms",
+      "recipient": "info@gtextfarms.com",
+      "subject": "Farm-to-distribution workflow enquiry",
+      "body": "I came across Gtext Farms and the integrated model covering cultivation, grading, processing, packaging, storage, quality and distribution. That is the type of multi-stage operation where internal workflow systems can make a difference as volume increases. I’m interested in how you currently track product movement and operational status across those stages. Veltrix builds internal dashboards, APIs and workflow automation. I’d like to first understand the current process and identify whether there is a genuine systems problem worth solving.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "SCL",
+      "recipient": "info@sclng.com",
+      "subject": "Operations & systems automation enquiry",
+      "body": "I came across SCL's work across regenerative agriculture, production, projects, farm management and training. I'm particularly interested in how information moves between field operations, project teams, farm management and administration as programmes scale. Veltrix builds operational systems, dashboards and workflow automation for distributed teams. I'd like to understand what tools you're currently using and whether there are recurring manual processes around reporting, field coordination or project tracking that could be improved.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Ire Àkárí Group",
+      "recipient": "info@ireakarigroup.com",
+      "subject": "Agribusiness operations & systems",
+      "body": "I came across Ire Àkárí Group and its operations across agriculture, mechanization, farm development, partnerships and investment. I'm interested in the operational systems supporting those functions, particularly how projects, field activities, partners and reporting are coordinated across locations. Veltrix builds internal workflow systems and automation. I’d like a short conversation with whoever owns operations or systems to understand where your current tooling works well and where there may be gaps.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "ZOGA Agro-Allied",
+      "recipient": "offtake@zogaagro.com",
+      "subject": "Cassava value-chain workflow & systems",
+      "body": "I came across ZOGA Agro-Allied and the work around smallholder networks, cassava processing and industrial offtake. A distributed value chain like this has multiple operational states to coordinate: producer activity, aggregation, quality, processing, inventory and offtake. Veltrix builds workflow automation and internal systems around multi-party operations. I’d like to understand what infrastructure you currently use to keep those workflows connected and whether there are areas where additional automation would be useful.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Golden Finger Farms",
+      "recipient": "nathan@goldenfingerfarm.com",
+      "subject": "Farm operations & workflow systems",
+      "body": "I came across Golden Finger Farms and the range of operations across crops, poultry, livestock, aquaculture and horticulture. As those production lines operate simultaneously, I’m interested in how you manage operational records, production activities, inventory and reporting. Veltrix builds lightweight internal systems and automation for businesses where operational complexity grows faster than internal tooling. I’d be happy to have a short conversation to understand what you're currently using and whether there is a useful problem we could solve.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Palm Valley",
+      "recipient": "palmvalleyng@gmail.com",
+      "subject": "Agribusiness workflow automation",
+      "body": "I came across Palm Valley and your work across the cooperative and agricultural value-chain ecosystem. I’m interested in the operational side—farmer/cooperative coordination, project tracking, field reporting, aggregation and partner communication. Veltrix builds internal applications and workflow automation that make these processes easier to coordinate and audit. I’d like to understand what systems you currently rely on and whether any recurring manual workflow is slowing the operation down.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Unikem Industries",
+      "recipient": "hr@africa.industries",
+      "subject": "Manufacturing operations & internal systems",
+      "body": "I came across Unikem Industries and its manufacturing operations. I’m researching how growing manufacturers coordinate production, maintenance, materials, inventory, reporting and operational requests between teams. Veltrix builds internal applications, APIs and workflow automation rather than generic customer-facing software. I’d like to understand whether there are operational processes around your manufacturing environment that still rely heavily on spreadsheets, manual approvals or disconnected records. Could you direct me to the relevant operations or technology lead?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "BAGCO Packaging Solutions",
+      "recipient": "",
+      "subject": "Manufacturing workflow & systems enquiry",
+      "body": "I’m reaching out because of BAGCO’s manufacturing environment and the operational complexity around production, materials, warehouse activity and distribution. Veltrix works on internal operational software and workflow automation where teams move information between production, inventory, procurement and reporting systems. I’m not looking to replace enterprise software; I’d first like to understand where supporting workflows still require manual coordination. Could you connect me with someone responsible for operations, process improvement or internal systems?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Amaiden Energy",
+      "recipient": "",
+      "subject": "Operations & inventory workflow enquiry",
+      "body": "I came across Amaiden Energy’s operations/inventory-control work involving shipment planning, inventory levels, production demand, reporting and asset valuation. I'm interested in the systems supporting those processes, particularly the handoff between operational planning, inventory and reporting. Veltrix builds internal workflow systems and automation for these environments. I’d like to understand whether there are manual processes around those workflows that could be improved without replacing core systems. Could you point me toward the relevant operations or technology owner?",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Sixthlab Medical",
+      "recipient": "hrsixthlab@gmail.com",
+      "subject": "Medical inventory & fulfilment workflow",
+      "body": "I came across Sixthlab Medical’s logistics and inventory operations involving medical equipment, reagents, consumables, customer orders and deliveries. I’m interested in how those workflows connect inventory records with customer orders, fulfilment and delivery coordination. Veltrix builds internal operational applications and workflow automation for these processes. I’d like to understand your current setup before suggesting anything, particularly whether teams rely on separate records or manual coordination.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Harobed & Associates",
+      "recipient": "recruitmentservices@harobedandassociates.info",
+      "subject": "Operations workflow & internal systems",
+      "body": "I came across Harobed & Associates and its work around optimizing organizational operations across public and private-sector projects. Given that operational improvement is already part of your work, I’m interested in whether there are internal workflows where additional engineering or automation capacity would be useful. Veltrix builds APIs, dashboards, internal applications and workflow automation. I’d rather understand the operational problems you're currently seeing and determine whether there is a technical solution worth exploring.",
+      "status": "DRAFT",
+      "approval_required": true
+    },
+    {
+      "company": "Ifotta",
+      "recipient": "info@ifotta.com",
+      "subject": "Technical delivery & workflow automation collaboration",
+      "body": "I came across Ifotta's work across healthcare, manufacturing, logistics, agriculture, technology and organisational transformation. The overlap with Veltrix is interesting because we approach the problem from the implementation side—building internal software, integrations, APIs and workflow automation required to turn operational improvements into working systems. I’d be interested in exploring whether there are projects where Ifotta needs additional technical implementation capacity or where a client workflow could benefit from a dedicated engineering partner.",
+      "status": "DRAFT",
+      "approval_required": true
+    }
+  ]
+}
