@@ -698,3 +698,27 @@ We still have no Aims-specific evidence that:
 **Measurable business pain caused by synchronization:** unconfirmed.
 
 The next attack should therefore focus on finding the actual **state-transition mechanism**: what Aims staff use to turn an external university event (offer, condition, CAS, portal status, deadline change) into an updated internal state and a student notification/report.
+
+
+## Source URL Audit — 2026-10-03
+
+The repository's material source URLs were checked against their current destinations during this research pass.
+
+**Confirmed live/current:**
+- Aims Nigeria: https://aimseducation.com/nigeria
+- Aims Nigeria offices: https://aimseducation.com/global-offices/nigeria
+- Nigeria consultation: https://aimseducation.com/nigeria/consultation
+- Nigeria university application service: https://aimseducation.com/nigeria/services/university-application
+- Aims courses: https://aimseducation.com/courses
+- Aims universities: https://aimseducation.com/universities
+- Aims team: https://aimseducation.com/our-team
+- Aston University Aims page: https://aimseducation.com/nigeria/study-in-uk/universities/aston-university
+- Ulster University agent directory: https://www.ulster.ac.uk/global/apply/agent-quality-framework/agents/middle-east-africa
+- De Montfort University agent directory: https://www.dmu.ac.uk/international/en/agents.aspx
+- MyJobMag Aims listings: https://www.myjobmag.com/jobs/latest-jobs-at-aims-education
+- MyJobMag Application Officer listing: https://www.myjobmag.com/job/application-officer-aims-education
+- LinkedIn Aims Nigeria job pages currently resolve, although several are closed/stale job postings.
+
+**No confirmed dead repository URL was found in this pass.**
+
+Some LinkedIn employee/profile/post URLs return crawler errors to this research environment rather than a confirmed 404. They should therefore not be rewritten as dead links without stronger evidence. 
