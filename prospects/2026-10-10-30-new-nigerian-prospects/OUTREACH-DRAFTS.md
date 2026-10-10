@@ -1,6 +1,6 @@
 # First-touch email drafts — 30 new Nigerian prospects
 
-**Use:** Drafts only. Nothing has been sent. Verify recipient/contact route and confirm source evidence before sending. Personalise sender signature and include a reply-to address. Avoid attaching a proposal before a discovery response.
+**Use:** Drafts only. Nothing has been sent. Contact routes were checked against official company pages or official support listings on 10 October 2026. Do not send the entries marked HOLD: these lack a verified general business email or only expose a recruitment address. Confirm operational evidence before sending. Personalise sender signature and include a reply-to address. Avoid attaching a proposal before a discovery response.
 
 ## 01. Bemil Nigeria Limited
 **Route:** connect@bemilnigeria.com
@@ -174,7 +174,7 @@ Founder, Veltrix
 ---
 
 ## 10. Nigerdock FZE
-**Route:** info@nigerdock.com
+**Route:** HOLD — use https://nigerdock.com/ contact page or +234 707 499 1046; official site publishes no general email
 **To:** Project Director / Terminal Operations / Engineering
 **Subject:** Quick question about port / fabrication / marine services operations
 
@@ -212,7 +212,7 @@ Founder, Veltrix
 ---
 
 ## 12. ntel Nigeria
-**Route:** enquiries@ntel.com.ng
+**Route:** enquires@ntel.com.ng
 **To:** Facilities & Fleet Manager / Infrastructure Operations
 **Subject:** Quick question about telecom infrastructure / facilities operations
 
@@ -250,7 +250,7 @@ Founder, Veltrix
 ---
 
 ## 14. Eastern Plains Integrated Farms Limited
-**Route:** easternplains83@gmail.com (recruitment listing; verify)
+**Route:** HOLD — recruitment-only address; do not use for sales outreach
 **To:** COO / Projects Coordinator / Fleet Supervisor
 **Subject:** Quick question about poultry agribusiness operations
 
@@ -288,7 +288,7 @@ Founder, Veltrix
 ---
 
 ## 16. Najec FMCG Limited
-**Route:** anajec2@gmail.com (recruitment listing; verify)
+**Route:** HOLD — recruitment-only address; do not use for sales outreach
 **To:** Head of Distribution / Operations Manager
 **Subject:** Quick question about fmcg distribution operations
 
@@ -421,7 +421,7 @@ Founder, Veltrix
 ---
 
 ## 23. Axxela Group
-**Route:** enquiries@axxelagroup.com
+**Route:** HOLD — use https://axxelagroup.com/ contact page or +234 201 270 0035; email not independently verified
 **To:** COO / Gas Operations / Asset Integrity
 **Subject:** Quick question about gas distribution / infrastructure operations
 
@@ -478,7 +478,7 @@ Founder, Veltrix
 ---
 
 ## 26. Medplus Pharmacy
-**Route:** info@medplusng.com (directory-listed; verify); official contact form
+**Route:** corporatebusiness@medplusng.com
 **To:** Head of Operations / Supply Chain / E-commerce Operations
 **Subject:** Quick question about pharmacy retail / healthcare operations
 
@@ -516,7 +516,7 @@ Founder, Veltrix
 ---
 
 ## 28. Bristow Nigeria Operations
-**Route:** iyabo.bello@bristownigeria.com (directory-listed; verify)
+**Route:** business.devlagos@bristowgroup.com
 **To:** Nigeria Operations / Maintenance Control / Flight Operations
 **Subject:** Quick question about offshore helicopter services operations
 
@@ -535,7 +535,7 @@ Founder, Veltrix
 ---
 
 ## 29. JMG Limited
-**Route:** jihad@jmglimited.com (directory-listed; verify)
+**Route:** info@jmglimited.com
 **To:** Service Operations / COO / Aftersales Manager
 **Subject:** Quick question about power equipment / after-sales service operations
 
