@@ -25,20 +25,18 @@ Founder, Veltrix
 ---
 
 ## 02. JMG Haulage
-**Contact address:** info@jmglimited.com  
-**Phone / alternate route:** +234 (JMG main contact)  
-**Physical / routing address:** 25 Ologun Agbaje Street, Victoria Island, Lagos  
-**Subject:** JMG's fleet expansion
+**Contact address:** info@jmglimited.com (general contact; address verified in the Oct 10 contact audit)  
+**Phone / alternate route:** Use the official contact page for the current phone number.  
+**Physical / routing address:** Confirm current routing on JMG's official contact page.  
+**Subject:** A question about fleet operations
 
 Hi JMG team,
 
-I saw the recent expansion of JMG Haulage's fleet and the expected increase from roughly 150,000 km to 250,000 km of monthly operational mileage.
+I’m reaching out because fleet and haulage operations often involve coordination across dispatch, maintenance, driver allocation and delivery exceptions.
 
-That kind of growth usually makes route exceptions, maintenance, driver allocation and delivery visibility much harder to manage consistently.
+I don’t want to assume which of those is a current problem for JMG. I’d be interested to learn whether there is a workflow your team would most like to make easier to track or coordinate.
 
-I'd like to understand which of those is currently the biggest operational headache for your team.
-
-Veltrix builds focused systems around exactly those gaps.
+Veltrix builds focused operational systems around specific bottlenecks rather than asking teams to replace tools that already work.
 
 Best,
 Ebunoluwa Segun-Hunsu
@@ -156,21 +154,12 @@ Founder, Veltrix
 
 ---
 
-## 08. Darafort
-**Contact address:** contact@darfort.com  
-**Phone / alternate route:** +234 811 577 9007  
-**Physical / routing address:** MJS House, 366 Murtala Muhammed Road, Yaba, Lagos  
-**Subject:** Darafort's operational visibility
+## 08. Darafort — HOLD
+**Contact address:** `contact@darfort.com` is not cleared for use because the domain/company-name mismatch has not been resolved.  
+**Phone / alternate route:** Previously listed as +234 811 577 9007; independently reconfirm before using.  
+**Status:** Do not send until the company identity and official contact route are confirmed.
 
-Hi Kelvin,
-
-I came across Darafort's work around fleet visibility, GPS and temperature monitoring, and the problems you've highlighted around delayed trucks and fragmented communication.
-
-I'm curious whether the remaining pain is mostly on the customer-facing side or inside the operational coordination between dispatch, fleet and exceptions.
-
-Veltrix builds focused systems around those gaps.
-
-If there's a workflow you still feel is unnecessarily manual, I'd love to hear what it is.
+Draft held pending verification; the company-specific operational claims and named-person greeting are also not verified in this pass.
 
 Best,
 Ebunoluwa Segun-Hunsu
@@ -332,21 +321,10 @@ Founder, Veltrix
 
 ---
 
-## 16. Twinings Ovaltine / Lagos Manufacturing Operation
-**Contact address:** Corporate Twinings/Ovaltine route; verify before sending  
-**Phone / alternate route:** Corporate contact route  
-**Physical / routing address:** 23 Oba Akinjobi Street, GRA, Ikeja, Lagos (historical Nigerian corporate address; verify routing)  
-**Subject:** The new Ovaltine plant in Lagos
-
-Hi Ovaltine team,
-
-I saw the opening of the new Lagos manufacturing facility and the ambition to serve both Nigeria and wider West Africa from the operation.
-
-As a new plant ramps up, I'm curious whether the biggest operational challenge is currently production visibility, QA/maintenance coordination, warehouse flow, or another area.
-
-Veltrix builds focused internal systems around those bottlenecks.
-
-I'd be interested in hearing what the plant team is currently working hardest to improve.
+## 16. Twinings Ovaltine / Lagos Manufacturing Operation — HOLD
+**Contact address:** No usable contact email verified. The previously recorded “Corporate Twinings/Ovaltine route” is a placeholder, not an address.  
+**Physical / routing address:** 23 Oba Akinjobi Street, GRA, Ikeja, Lagos was recorded as historical and is not cleared for current routing.  
+**Status:** Do not send until a current official corporate contact route and the cited Lagos plant announcement are independently verified.
 
 Best,
 Ebunoluwa Segun-Hunsu
