@@ -4,8 +4,10 @@
 - **Priority:** High
 - **Evidence confidence:** Strong role evidence; medium contact confidence
 - **Likely decision-maker:** COO / Projects Coordinator / Fleet Supervisor
-- **Best outreach route:** easternplains83@gmail.com (recruitment listing; verify)
-- **Official site/source route:** Not independently confirmed in this research run; validate before outreach.
+- **Best outreach route:** HOLD — easternplains83@gmail.com is published only as a job-application address; do not use for sales outreach
+- **Official site/source route:** https://ng.linkedin.com/jobs/view/projects-coordinator-at-eastern-plains-integrated-farms-ltd-4467616142
+- **Contact audit (10 Oct 2026):** NOT VERIFIED FOR SALES — recruitment-only route
+- **Contact verification source:** https://ng.linkedin.com/jobs/view/projects-coordinator-at-eastern-plains-integrated-farms-ltd-4467616142
 
 ## Activity / trigger evidence
 September 2026 vacancies for Fleet Supervisor, Projects Coordinator and Facilities Coordinator cover fleet costs, GPS, contractors, budgets and reporting.

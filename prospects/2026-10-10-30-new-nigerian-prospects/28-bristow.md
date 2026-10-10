@@ -4,8 +4,10 @@
 - **Priority:** Medium
 - **Evidence confidence:** Moderate operating context; low-medium pain evidence
 - **Likely decision-maker:** Nigeria Operations / Maintenance Control / Flight Operations
-- **Best outreach route:** iyabo.bello@bristownigeria.com (directory-listed; verify)
-- **Official site/source route:** https://www.bristowgroup.com/
+- **Best outreach route:** business.devlagos@bristowgroup.com (Africa Business Development)
+- **Official site/source route:** https://www.bristowgroup.com/contact
+- **Contact audit (10 Oct 2026):** VERIFIED — official Bristow commercial contact; replaced directory-listed personal address
+- **Contact verification source:** https://www.bristowgroup.com/contact
 
 ## Activity / trigger evidence
 Public directory lists Nigerian operating contact and airport location; no current failure independently established in this research run.

@@ -4,8 +4,10 @@
 - **Priority:** Medium
 - **Evidence confidence:** Strong multichannel evidence; medium-low gap inference
 - **Likely decision-maker:** Head of Operations / Supply Chain / E-commerce Operations
-- **Best outreach route:** info@medplusng.com (directory-listed; verify); official contact form
+- **Best outreach route:** corporatebusiness@medplusng.com (business/partnerships); talk2us@medplusng.com or customercare@medplusng.com (general support)
 - **Official site/source route:** https://medplusnig.com/contacts/
+- **Contact audit (10 Oct 2026):** VERIFIED — official business/partnerships contact; replaced unverified info@ address
+- **Contact verification source:** https://medplusnig.com/contacts/
 
 ## Activity / trigger evidence
 Official site offers nationwide store discovery, online order tracking, customer support, telehealth and corporate/bulk-purchase enquiries.

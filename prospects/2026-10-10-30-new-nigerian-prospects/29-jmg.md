@@ -4,8 +4,10 @@
 - **Priority:** Medium-low
 - **Evidence confidence:** Moderate activity evidence; low pain evidence
 - **Likely decision-maker:** Service Operations / COO / Aftersales Manager
-- **Best outreach route:** jihad@jmglimited.com (directory-listed; verify)
-- **Official site/source route:** https://jmglimited.com/
+- **Best outreach route:** info@jmglimited.com (general/product enquiries); support@jmglimited.com (service support)
+- **Official site/source route:** https://www.jmglimited.com/contact
+- **Contact audit (10 Oct 2026):** VERIFIED — official JMG contact page; replaced directory-listed address
+- **Contact verification source:** https://www.jmglimited.com/contact
 
 ## Activity / trigger evidence
 Public business listings describe equipment sales/service and publish Lagos contact; no current expansion or failure established in this research run.

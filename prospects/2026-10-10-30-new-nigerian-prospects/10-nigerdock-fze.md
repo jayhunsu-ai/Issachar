@@ -4,8 +4,10 @@
 - **Priority:** High
 - **Evidence confidence:** Very strong project evidence; medium gap inference
 - **Likely decision-maker:** Project Director / Terminal Operations / Engineering
-- **Best outreach route:** info@nigerdock.com
+- **Best outreach route:** Official contact page + phone +234 707 499 1046; no public general email verified — HOLD for email outreach
 - **Official site/source route:** https://nigerdock.com/
+- **Contact audit (10 Oct 2026):** VERIFIED ROUTE ONLY — official site publishes a contact page and phone, not a general email
+- **Contact verification source:** https://nigerdock.com/
 
 ## Activity / trigger evidence
 Signed 45-year MSC sub-concession in March 2026 to develop a container terminal at Snake Island Port; 40-year milestone in April.

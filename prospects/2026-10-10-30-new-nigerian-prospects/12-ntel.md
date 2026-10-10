@@ -4,8 +4,10 @@
 - **Priority:** High
 - **Evidence confidence:** Very strong role-scope evidence; medium gap inference
 - **Likely decision-maker:** Facilities & Fleet Manager / Infrastructure Operations
-- **Best outreach route:** enquiries@ntel.com.ng
-- **Official site/source route:** https://ntel.com.ng/
+- **Best outreach route:** enquires@ntel.com.ng (official page spells it 'enquires')
+- **Official site/source route:** https://ntel.com.ng/contact/
+- **Contact audit (10 Oct 2026):** VERIFIED — corrected to the spelling published on the official contact page
+- **Contact verification source:** https://ntel.com.ng/contact/
 
 ## Activity / trigger evidence
 September 2026 Facilities & Fleet Manager vacancy covers multi-region facilities, utilities, generators, vendors, renovations and fleet compliance.

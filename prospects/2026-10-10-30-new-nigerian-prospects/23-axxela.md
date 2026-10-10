@@ -4,8 +4,10 @@
 - **Priority:** Medium-high
 - **Evidence confidence:** Strong network-scale evidence; medium-low gap inference
 - **Likely decision-maker:** COO / Gas Operations / Asset Integrity
-- **Best outreach route:** enquiries@axxelagroup.com
+- **Best outreach route:** Official contact page / phone +234 201 270 0035; email not independently verified from accessible official page — HOLD for email outreach
 - **Official site/source route:** https://axxelagroup.com/
+- **Contact audit (10 Oct 2026):** ROUTE VERIFIED; email string not verified
+- **Contact verification source:** https://axxelagroup.com/
 
 ## Activity / trigger evidence
 Company materials describe 400+ km pipeline infrastructure, 200+ industrial/commercial customers and virtual-pipeline growth targets.

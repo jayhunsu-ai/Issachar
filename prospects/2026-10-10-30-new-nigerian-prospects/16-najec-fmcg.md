@@ -4,8 +4,10 @@
 - **Priority:** High
 - **Evidence confidence:** Very strong role evidence; medium contact confidence
 - **Likely decision-maker:** Head of Distribution / Operations Manager
-- **Best outreach route:** anajec2@gmail.com (recruitment listing; verify)
-- **Official site/source route:** Not independently confirmed in this research run; validate before outreach.
+- **Best outreach route:** HOLD — anajec2@gmail.com appears only in a recruitment listing; no verified general sales contact found
+- **Official site/source route:** https://www.google.com/search?q=Najec+FMCG+official+contact
+- **Contact audit (10 Oct 2026):** NOT VERIFIED FOR SALES — recruitment-only route; no official general contact independently confirmed
+- **Contact verification source:** https://www.google.com/search?q=Najec+FMCG+official+contact
 
 ## Activity / trigger evidence
 September 2026 Dispatch & Fleet Coordinator vacancy covers route rosters, loading-bay queues, truck allocation, returned-crate reconciliation and KPIs.
